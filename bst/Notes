@@ -1,0 +1,16 @@
+Preorder - root, left, right
+In order - left, root, right
+post order - left right, root
+
+read:  http://www.introprogramming.info/tag/binary-search-trees/
+http://cslibrary.stanford.edu/110/BinaryTrees.html
+
+http://www.cs.bu.edu/teaching/cs112/spring-2000/binary-tree/
+
+
+Questions:
+* Should I use T Extends Comparator<T> or is T Extends Comparator okay?
+* Some binary trees tutorial allows for duplications, others don't, which is right?
+https://www.cs.usfca.edu/~galles/visualization/BST.html
+* If we can have a link to the child node, why don't we have a link to the parent node to make the tree bidirectional?
+* It seems that a binary tree is different from a binary search tree, so when we talk about a binary tree are talking about binary search tree?
